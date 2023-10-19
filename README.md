@@ -14,7 +14,7 @@ Dive into the world of machine learning with hands-on implementations of various
 - Statistical method for binary classification and probability estimation.
 - **Applications**:
   - Spam email detection in cybersecurity.
-  - Medical diagnosis, such as predicting the likelihood of a disease.
+  - Medical diagnosis, such as predicting the likelihood of a disease. 
 
 ## K-Nearest Neighbors (KNN)
 
