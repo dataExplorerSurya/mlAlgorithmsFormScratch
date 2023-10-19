@@ -9,6 +9,13 @@ Dive into the world of machine learning with hands-on implementations of various
   - Predicting house prices based on square footage.
   - Estimating sales based on advertising expenditure.
 
+## Logistic Regression
+
+- Statistical method for binary classification and probability estimation.
+- **Applications**:
+  - Spam email detection in cybersecurity.
+  - Medical diagnosis, such as predicting the likelihood of a disease.
+
 ## K-Nearest Neighbors (KNN)
 
 - Non-parametric method for classification and regression.
@@ -37,12 +44,8 @@ Dive into the world of machine learning with hands-on implementations of various
   - Customer segmentation for targeted marketing.
   - Image compression and feature extraction.
 
-## Neural Networks
 
-- Deep learning models inspired by the human brain's neural structure.
-- **Applications**:
-  - Speech recognition and synthesis.
-  - Autonomous vehicle control and navigation.
+
 
 
 
