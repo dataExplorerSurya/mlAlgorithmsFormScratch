@@ -23,6 +23,15 @@ Dive into the world of machine learning with hands-on implementations of various
   - Image recognition in computer vision.
   - Recommender systems for personalized content.
 
+## Naive Bayes
+
+- A probabilistic machine learning algorithm which applies Bayes' theorem
+- **Applications**:
+  - Text categorization in natural language processing.
+  - Email Filtering.
+  - Medical Diagnosis
+
+
 ## Decision Trees
 
 - Tree-like models for both classification and regression.
@@ -43,6 +52,7 @@ Dive into the world of machine learning with hands-on implementations of various
 - **Applications**:
   - Customer segmentation for targeted marketing.
   - Image compression and feature extraction.
+
 
 
 
